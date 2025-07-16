@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hey there, I'm Varshasri R V! 👩‍💻</h1>  
-<h3 align="center">🌈 GenAI Explorer | ML Enthusiast | Python Developer</h3>  
+<h3 align="center"> GenAI Explorer | ML Enthusiast | Python Developer</h3>  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+AI-powered+apps+with+creativity;Exploring+GenAI+and+LLMs+daily;Let%E2%80%99s+build+the+future+together!">
