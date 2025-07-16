@@ -55,7 +55,7 @@
 ## 🌐 Let’s Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/varshasri-rv" target="_blank">
+  <a href="https://www.linkedin.com/in/varshasri-r-v/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rvvarshasri408@gmail.com">
